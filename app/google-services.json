@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "551526257297",
+    "project_id": "enruta-ce5e9",
+    "storage_bucket": "enruta-ce5e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551526257297:android:f9b0031ed9046faed42530",
+        "android_client_info": {
+          "package_name": "com.upao.enruta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_9q9DhWmrcm5cpb6JJLFDsJS4-9bLK9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
